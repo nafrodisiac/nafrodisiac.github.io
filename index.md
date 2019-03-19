@@ -8,8 +8,7 @@ Web Screenshots
 <img src="images/IMG_2030.PNG"/>
 <img src="images/20180306_215301.jpg"/>
 <img src="images/IMG_2040.jpg"/>
-<img src="images/IMG_2762.PNG"/>
-<img src="images/IMG_2651.TRIM.MOV"/>
+<img src="images/IMG_2762.PNG"/>/>
 
 
 ---
@@ -25,16 +24,12 @@ Mock Ups & Wire Frames
 ---
 The Team
 <img src="images/Screenshot_20170909-023652.png"/>
+<img src="images/wwho_group.png"/>
+<img src="images/WWHO.png"/>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
