@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### WWHO Sharing Marketplace
 
-[Project 1 Title](/sample_page)
+[Landing Page Screenshot](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
