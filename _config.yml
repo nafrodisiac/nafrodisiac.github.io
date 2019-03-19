@@ -1,12 +1,14 @@
 title: WWHO: What is it, Where is it, How much? Okay! # your name (or website title) here
 logo: "/images/logoringlarge.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  WWHO is a peer to peer rental marketplace for college students. This website serves as a record of our 3 year experiment and efforts 
-  to bring this product to fruition. 
+  WWHO is a peer to peer rental marketplace for college students. 
+  This website serves as a display of our 3 year experiment and the efforts taken to bring this product to fruition. 
   <br><br>
-  The WWHO marketplace is currently inactive.
+  The WWHO marketplace is currently inactive. 
+  
   <br><br>
   <a href="https://www.linkedin.com/in/nafijur-dalim-0262ba119/">View My LinkedIn Profile</a> 
+   <a href="https://www.instagram.com/thewwhoteam/">View My Instagram Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
