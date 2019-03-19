@@ -5,7 +5,7 @@
 ### WWHO Sharing Marketplace
 
 [Landing Page Screenshot](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMG_2030.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
